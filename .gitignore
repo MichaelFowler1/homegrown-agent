@@ -1,0 +1,5 @@
+# generated agent workspace (goals, scripts, outputs it produces at runtime)
+agent-workspace/
+# local secrets — never commit
+*.key
+.env
