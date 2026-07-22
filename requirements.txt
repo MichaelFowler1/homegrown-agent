@@ -1,0 +1,3 @@
+# Python deps for the early-experiments scripts (no local venv to pin from).
+pandas
+requests
