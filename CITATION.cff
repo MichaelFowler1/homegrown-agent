@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "homegrown-agent"
+abstract: "An autonomous coding agent built from scratch in PowerShell — self-directed goals, sandboxed Docker execution, self-evaluation, and retry. Local-first (Ollama) or free cloud (Groq). No agent frameworks."
+authors:
+  - family-names: "Fowler"
+    given-names: "Michael"
+    alias: "MichaelFowler1"
+repository-code: "https://github.com/MichaelFowler1/homegrown-agent"
+url: "https://github.com/MichaelFowler1/homegrown-agent"
+license: "Apache-2.0"
+date-released: "2026-07-15"
