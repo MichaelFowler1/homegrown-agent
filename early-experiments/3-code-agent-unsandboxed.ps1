@@ -1,3 +1,6 @@
+# Copyright 2026 Michael Fowler
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
+
 # code-agent.ps1 — a self-improving coding loop.
 # The model WRITES code; the script RUNS it and feeds the real error back so the
 # model fixes its own mistakes. Generate-then-commit + interpreter-as-teacher.

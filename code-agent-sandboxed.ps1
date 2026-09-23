@@ -1,3 +1,6 @@
+# Copyright 2026 Michael Fowler
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
+
 # code-agent-sandboxed.ps1  (v3 — full shell, multi-language, persistent workspace)
 #
 # An autonomous agent that ponders, picks its OWN goal (any medium: program, game,

@@ -1,3 +1,6 @@
+# Copyright 2026 Michael Fowler
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
+
 # ponder-build.ps1 — the model generates, the SCRIPT commits.
 # Fills autonomous-agents.md one placeholder at a time by calling Ollama directly.
 # No Goose CLI, no command-line prompt passing -> no quoting bugs, guaranteed edits.

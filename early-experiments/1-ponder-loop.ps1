@@ -1,3 +1,6 @@
+# Copyright 2026 Michael Fowler
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
+
 # ponder-loop.ps1 — makes Goose "think for itself" continuously.
 # Each iteration: feed Goose its own journal, let it think one step + optionally act,
 # append the result to journal.md. Watch journal.md to see it live.
